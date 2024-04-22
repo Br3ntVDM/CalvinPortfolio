@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/CalvinPortfolio/static/css/main.3d5c4edf.css",
+    "main.js": "/CalvinPortfolio/static/js/main.9cef676c.js",
+    "static/js/453.23835595.chunk.js": "/CalvinPortfolio/static/js/453.23835595.chunk.js",
+    "static/media/aboutpic.jpg": "/CalvinPortfolio/static/media/aboutpic.8106f3ef971c4d558880.jpg",
+    "static/media/headgif.gif": "/CalvinPortfolio/static/media/headgif.be401e078840e4fdb54e.gif",
+    "static/media/web3-1.png": "/CalvinPortfolio/static/media/web3-1.942bee3fd0c904c4610e.png",
+    "static/media/headgif3.gif": "/CalvinPortfolio/static/media/headgif3.4c609b92ee57df5e004d.gif",
+    "static/media/webgame.jpg": "/CalvinPortfolio/static/media/webgame.55d355f34381ab858116.jpg",
+    "static/media/web3-3.png": "/CalvinPortfolio/static/media/web3-3.18b90ffd6bcaf1ab29f5.png",
+    "static/media/game4-1.jpg": "/CalvinPortfolio/static/media/game4-1.7b8b19e1884cb1d4db99.jpg",
+    "static/media/web3-2.png": "/CalvinPortfolio/static/media/web3-2.b2e25848508da8578ef1.png",
+    "static/media/webbg.jpg": "/CalvinPortfolio/static/media/webbg.8f0f4acf1f7297870645.jpg",
+    "static/media/game4-3.jpg": "/CalvinPortfolio/static/media/game4-3.cb0dc42184ff3b822ef3.jpg",
+    "static/media/game4-2.jpg": "/CalvinPortfolio/static/media/game4-2.34a149bd5f6dbf137382.jpg",
+    "static/media/propic.jpg": "/CalvinPortfolio/static/media/propic.a5250ed828d875d25203.jpg",
+    "static/media/game1-1.png": "/CalvinPortfolio/static/media/game1-1.6989ade150560ffda76d.png",
+    "static/media/web2-3.jpg": "/CalvinPortfolio/static/media/web2-3.29cd78732625dcb5ed99.jpg",
+    "static/media/web2-2.jpg": "/CalvinPortfolio/static/media/web2-2.5d06bd603fcaedc18e22.jpg",
+    "static/media/web2-1.jpg": "/CalvinPortfolio/static/media/web2-1.3d8494ae0cbf242a2de1.jpg",
+    "static/media/web1-2.png": "/CalvinPortfolio/static/media/web1-2.e68760ab0fea391ff035.png",
+    "static/media/game1-2.jpg": "/CalvinPortfolio/static/media/game1-2.c58f34da94324bcdb3c1.jpg",
+    "static/media/game2-1.jpg": "/CalvinPortfolio/static/media/game2-1.38a596f6cbb7507d3fec.jpg",
+    "static/media/game2-3.jpg": "/CalvinPortfolio/static/media/game2-3.160fa8f5b5de5321a8fc.jpg",
+    "static/media/game2-2.jpg": "/CalvinPortfolio/static/media/game2-2.9104ae4e375d1c75f2fe.jpg",
+    "static/media/web1-1.jpg": "/CalvinPortfolio/static/media/web1-1.b5323718e9c54580622e.jpg",
+    "static/media/game3-2.jpg": "/CalvinPortfolio/static/media/game3-2.e83d8ddb76d5b34e4165.jpg",
+    "static/media/game1-3.jpg": "/CalvinPortfolio/static/media/game1-3.4c8eda37ddee516240f8.jpg",
+    "static/media/web1-3.jpg": "/CalvinPortfolio/static/media/web1-3.5fc7c83696d5b53c04a0.jpg",
+    "static/media/game3-1.jpg": "/CalvinPortfolio/static/media/game3-1.953fd70de86895ecc649.jpg",
+    "static/media/game3-3.jpg": "/CalvinPortfolio/static/media/game3-3.88da7e5e6d0e12b3eab7.jpg",
+    "index.html": "/CalvinPortfolio/index.html",
+    "main.3d5c4edf.css.map": "/CalvinPortfolio/static/css/main.3d5c4edf.css.map",
+    "main.9cef676c.js.map": "/CalvinPortfolio/static/js/main.9cef676c.js.map",
+    "453.23835595.chunk.js.map": "/CalvinPortfolio/static/js/453.23835595.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d5c4edf.css",
+    "static/js/main.9cef676c.js"
+  ]
+}
